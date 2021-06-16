@@ -1,6 +1,6 @@
 # commodity-price-tracker
 To track the commodity price using the following
-web crawling
-web scraping
-data extraction
-data formatting
+1. web crawling
+2. web scraping
+3. data extraction
+4. data formatting
